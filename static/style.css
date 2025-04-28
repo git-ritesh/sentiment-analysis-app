@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f2f5;
+}
+.container {
+    margin-top: 70px;
+}
+.card {
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.btn-primary {
+    border-radius: 10px;
+}
+textarea {
+    resize: none;
+}
+.logo {
+    width: 80px;
+}
